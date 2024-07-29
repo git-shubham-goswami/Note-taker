@@ -1,6 +1,3 @@
-Certainly! Here's the complete `README.md` including all the sections from "Set Up MySQL Database" to "Acknowledgements":
-
-```markdown
 # Note Taker
 
 ## Description
@@ -21,7 +18,7 @@ The Note Taker is a web-based application developed using Java technologies, inc
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/note-taker.git
-   ```
+`
 
 2. **Set Up MySQL Database:**
    - Create a new MySQL database and user for the application.
