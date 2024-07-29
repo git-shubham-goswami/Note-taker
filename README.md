@@ -6,7 +6,6 @@ The Note Taker is a web-based application developed using Java technologies, inc
 
 ## Features
 
-- **User Authentication:** Secure login for accessing note-taking functionalities.
 - **Create Notes:** Add new notes with titles and content.
 - **Edit Notes:** Modify existing notes.
 - **Delete Notes:** Remove notes from the system.
@@ -45,8 +44,7 @@ The Note Taker is a web-based application developed using Java technologies, inc
 ## Usage
 
 1. Start the web server and navigate to `http://localhost:8080/note-taker` in your web browser.
-2. Log in with your credentials.
-3. Use the web interface to create, view, edit, and delete notes.
+2. Use the web interface to create, view, edit, and delete notes.
 
 ## Contributing
 
@@ -56,10 +54,6 @@ Contributions are welcome! To contribute:
 2. Create a new branch for your feature or bug fix.
 3. Commit your changes and push to your branch.
 4. Open a pull request with a detailed description of your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
