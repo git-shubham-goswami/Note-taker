@@ -63,4 +63,3 @@ Contributions are welcome! To contribute:
 - **HTML & CSS:** For designing the user interface.
 ```
 
-Feel free to update any placeholders or specific details as necessary!
